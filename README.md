@@ -24,11 +24,11 @@ O arquivo deve **obrigatoriamente**:
 | `Inteiro` | Número pertencente ao conjunto de números naturais | [Wikipédia](https://pt.wikipedia.org/wiki/N%C3%BAmero_inteiro) | |
 | `Numérico` | Número pertencente ao conjunto de números racionais | [Wikipédia](https://pt.wikipedia.org/wiki/N%C3%BAmero_real) | |
 | `Data` | Data no padrão brasileiro | [Wikipédia](https://pt.wikipedia.org/wiki/Data) | Mascara: dd/mm/yyyy |
-| `Texto` | Texto alphanumérico | [Wikipédia](https://pt.wikipedia.org/wiki/Alfanum%C3%A9rico) | Obs: Obedecer o limite quando definido |
+| `Texto` | Texto alphanumérico | [Wikipédia](https://pt.wikipedia.org/wiki/Alfanum%C3%A9rico) | Obedecer o limite de quantidade de caracteres, quando definido |
 
 ## Blocos de informação
 
-### Index
+### <a name="index"/>Índice</a>
 
 * [Bloco 04 - Fluxo de caixa](#bloco-04)
 * [Bloco 16 - Aquisicao de bens duraveis](#bloco-16)
@@ -43,8 +43,7 @@ O arquivo deve **obrigatoriamente**:
 * [Bloco 31 - Pagamento RPA](#bloco-31)
 
 
-### Fluxo de caixa
-#### Bloco 04
+### <a name="bloco-04"/>Bloco 04 - Fluxo de caixa</a>
 
 | #  | Campo | Tipo | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
 |----|---|---|:---:|:---:|:---:|:---:|---|---|
@@ -60,8 +59,7 @@ O arquivo deve **obrigatoriamente**:
 
 [Voltar para índice](#index)
 
-### Aquisição de bens duraveis
-#### Bloco 16
+### <a name="bloco-16"/>Bloco 16 - Aquisição de bens duraveis</a>
 
 | #  | Campo | Tipo | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
 |----|---|---|:---:|:---:|:---:|:---:|---|---|
@@ -77,8 +75,7 @@ O arquivo deve **obrigatoriamente**:
 
 [Voltar para índice](#index)
 
-### Remuneração dos membros da diretoria
-#### Bloco 17
+### <a name="bloco-17"/>Bloco 17 - Remuneração dos membros da diretoria</a>
 
 | #  | Campo | Tipo | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
 |----|---|---|:---:|:---:|:---:|:---:|---|---|
@@ -86,8 +83,7 @@ O arquivo deve **obrigatoriamente**:
 
 [Voltar para índice](#index)
 
-### Conciliação bancária
-#### Bloco 18
+### <a name="bloco-18"/>Bloco 18 - Conciliação bancária</a>
 
 | #  | Campo | Tipo | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
 |----|---|---|:---:|:---:|:---:|:---:|---|---|
@@ -95,8 +91,7 @@ O arquivo deve **obrigatoriamente**:
 
 [Voltar para índice](#index)
 
-### Contas a pagar no mês
-#### Bloco 19
+### <a name="bloco-19"/>Bloco 19 - Contas a pagar no mês</a>
 
 | #  | Campo | Tipo | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
 |----|---|---|:---:|:---:|:---:|:---:|---|---|
@@ -118,8 +113,7 @@ O arquivo deve **obrigatoriamente**:
 
 [Voltar para índice](#index)
 
-### Contrato de serviços terceirizados
-#### Bloco 20
+### <a name="bloco-20"/>Bloco 20 - Contrato de serviços terceirizados</a>
 
 | #  | Campo | Tipo | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
 |----|---|---|:---:|:---:|:---:|:---:|---|---|
@@ -127,8 +121,7 @@ O arquivo deve **obrigatoriamente**:
 
 [Voltar para índice](#index)
 
-### Outros investimentos
-#### Bloco 21
+### <a name="bloco-21"/>Bloco 21 - Outros investimentos</a>
 
 | #  | Campo | Tipo | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
 |----|---|---|:---:|:---:|:---:|:---:|---|---|
@@ -136,8 +129,7 @@ O arquivo deve **obrigatoriamente**:
 
 [Voltar para índice](#index)
 
-### Custo corporativo compartilhado
-#### Bloco 22
+### <a name="bloco-22"/>Bloco 22 - Custo corporativo compartilhado</a>
 
 | #  | Campo | Tipo | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
 |----|---|---|:---:|:---:|:---:|:---:|---|---|
@@ -145,8 +137,7 @@ O arquivo deve **obrigatoriamente**:
 
 [Voltar para índice](#index)
 
-### RH contrato no mês
-#### Bloco 29
+### <a name="bloco-29"/>Bloco 29 - RH contrato no mês</a>
 
 | #  | Campo | Tipo | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
 |----|---|---|:---:|:---:|:---:|:---:|---|---|
@@ -154,8 +145,7 @@ O arquivo deve **obrigatoriamente**:
 
 [Voltar para índice](#index)
 
-### Fluxo de caixa projetado
-#### Bloco 30
+### <a name="bloco-30"/>Bloco 30 - Fluxo de caixa projetado</a>
 
 | #  | Campo | Tipo | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
 |----|---|---|:---:|:---:|:---:|:---:|---|---|
@@ -171,8 +161,7 @@ O arquivo deve **obrigatoriamente**:
 
 [Voltar para índice](#index)
 
-### Pagamento RPA
-#### Bloco 31
+### <a name="bloco-31"/>Bloco 31 - Pagamento RPA</a>
 
 | #  | Campo | Tipo | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
 |----|---|---|:---:|:---:|:---:|:---:|---|---|
