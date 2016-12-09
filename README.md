@@ -19,12 +19,12 @@ O arquivo deve **obrigatoriamente**:
 
 ### Tipos de dados
 
-| Tipo | Descrição |
-|-------|----------------------------|
-| `Inteiro` | Número pertencente ao conjunto de números inteiro |
-| `Numérico` | Número pertencente ao conjunto de números reais |
-| `Data` | Data padrão brasileiro. Mascara: dd/mm/yyyy |
-| `Texto` | Texto livre (*Obs: Obedecer o limite quando definido*) |
+| Tipo | Descrição | Observações |
+|---|---------|------|
+| `Inteiro` | Número pertencente ao conjunto de números naturais | [Wikipédia](https://pt.wikipedia.org/wiki/N%C3%BAmero_inteiro) |
+| `Numérico` | Número pertencente ao conjunto de números racionais | [Wikipédia](https://pt.wikipedia.org/wiki/N%C3%BAmero_real) |
+| `Data` | Data no padrão brasileiro. | [Wikipédia](https://pt.wikipedia.org/wiki/Data), Mascara: dd/mm/yyyy |
+| `Texto` | Texto alphanumérico | [Wikipédia](https://pt.wikipedia.org/wiki/Alfanum%C3%A9rico), Obs: Obedecer o limite quando definido |
 
 ## Blocos de informação
 
@@ -32,14 +32,21 @@ O arquivo deve **obrigatoriamente**:
 
 * [Bloco 04 - Fluxo de caixa](#bloco-04---fluxo-de-caixa)
 * [Bloco 16 - Aquisicao de bens duraveis](#bloco-16---aquisicao-de-bens-duraveis)
+* [Bloco 17 - Remuneração dos membros da diretoria]#bloco-17---remuneracao-dos-membros-da-diretoria)
+* [Bloco 18 - Conciliação bancária](#bloco-18---conciliacao-bancaria)
 * [Bloco 19 - Contas a pagar no mes](#bloco-19---contas-a-pagar-no-mes)
+* [Bloco 20 - Contrato de serviços terceirizados](#bloco-20---contrato-de-servicos-terceirizados)
+* [Bloco 21 - Outros investimentos](#bloco-21---outros-investimentos)
+* [Bloco 22 - Custo corporativo compartilhado](#bloco-22---custo-corporativo-compartilhado)
+* [Bloco 29 - RH contrato no mês](#bloco-29---rh-contrato-no-mes)
 * [Bloco 30 - Fluxo de caixa projetado](#bloco-30---fluxo-de-caixa-projetado)
+* [Bloco 31 - Pagamento RPA](#bloco-31---pagamento-rpa)
 
 
 ### Bloco 04 - Fluxo de caixa
 
-| #  | Campo | [Tipo](#tipos-de-dados) | Tamanho | Obrigatorio | Fixo | Mascara | Descricao                    | Observacao |
-|----|-------|------|:---------:|:-----------:|:----:|:-------:|-------------------------------------------------|------------|
+| #  | Campo | Tipo [(?)](#tipos-de-dados) | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
+|----|---|---|:---:|:---:|:---:|:---:|---|---|
 | 01 | `codigo` | Inteiro | 3 | S | S | 000 | Descreve o tipo da planilha: Fluxo de caixa | Informar: 04 |
 | 02 | `movimento` | Texto | 7 | S | N | mm/yyyy | Mes/Ano em que ocorreu a movimentacao | |
 | 03 | `chave` | Inteiro | 5 | S | N | 00000 | Usar codigo referente ao movimento | Ver [plano de contas](plano_de_contas.md) |
@@ -52,8 +59,8 @@ O arquivo deve **obrigatoriamente**:
 
 ### Bloco 16 - Aquisição de bens duraveis
 
-| #  | Campo | [Tipo](#tipos-de-dados) | Tamanho | Obrigatorio | Fixo | Mascara | Descricao                    | Observacao |
-|----|-------|------|:---------:|:-----------:|:----:|:-------:|-------------------------------------------------|------------|
+| #  | Campo | Tipo [(?)](#tipos-de-dados) | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
+|----|---|---|:---:|:---:|:---:|:---:|---|---|
 | 01 | `codigo` | Inteiro | 3 | S | S | 000 | Descreve o tipo da planilha: Fluxo de caixa | Informar: 04 |
 | 02 | `movimento` | Texto | 7 | S | N | mm/yyyy | Mes/Ano em que ocorreu a movimentacao | |
 | 03 | `chave` | Inteiro | 5 | S | N | 00000 | Usar codigo referente ao movimento | Ver [plano de contas](plano_de_contas.md) |
@@ -64,10 +71,20 @@ O arquivo deve **obrigatoriamente**:
 | 08 | `historico` | Texto | 200 | N | N | | **??????** | |
 | 09 | `anexo` | Texto | 80 | S | N | | Descricao do nome do anexo que apresenta a comprovacao da movimentacao financeira | |
 
+### Bloco 17 - Remuneração dos membros da diretoria
+
+| #  | Campo | Tipo [(?)](#tipos-de-dados) | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
+|----|---|---|:---:|:---:|:---:|:---:|---|---|
+
+### Bloco 18 - Conciliação bancária
+
+| #  | Campo | Tipo [(?)](#tipos-de-dados) | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
+|----|---|---|:---:|:---:|:---:|:---:|---|---|
+
 ### Bloco 19 - Contas a pagar no mês
 
-| #  | Campo | [Tipo](#tipos-de-dados) | Tamanho | Obrigatorio | Fixo | Mascara | Descricao                    | Observacao |
-|----|-------|------|:---------:|:-----------:|:----:|:-------:|-------------------------------------------------|------------|
+| #  | Campo | Tipo [(?)](#tipos-de-dados) | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
+|----|---|---|:---:|:---:|:---:|:---:|---|---|
 | 01 | `codigo` | Inteiro | 3 | S | S | 000 | Descreve o tipo da planilha: Fluxo de caixa | Informar: 04 |
 | 02 | `movimento` | Texto | 7 | S | N | mm/yyyy | Mes/Ano em que ocorreu a movimentacao | |
 | 03 | `chave_item` | Inteiro | 5 | S | N | 00000 | zzz | |
@@ -84,10 +101,30 @@ O arquivo deve **obrigatoriamente**:
 | 14 | `saldo` | Numerico | 8 +2 | S | N | 0,00 | xxx | |
 | 15 | `anexo` | Texto | 80 | S | N | | xxx | |
 
+### Bloco 20 - Contrato de serviços terceirizados
+
+| #  | Campo | Tipo [(?)](#tipos-de-dados) | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
+|----|---|---|:---:|:---:|:---:|:---:|---|---|
+
+### Bloco 21 - Outros investimentos
+
+| #  | Campo | Tipo [(?)](#tipos-de-dados) | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
+|----|---|---|:---:|:---:|:---:|:---:|---|---|
+
+### Bloco 22 - Custo corporativo compartilhado
+
+| #  | Campo | Tipo [(?)](#tipos-de-dados) | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
+|----|---|---|:---:|:---:|:---:|:---:|---|---|
+
+### Bloco 29 - RH contrato no mês
+
+| #  | Campo | Tipo [(?)](#tipos-de-dados) | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
+|----|---|---|:---:|:---:|:---:|:---:|---|---|
+
 ### Bloco 30 - Fluxo de caixa projetado
 
-| #  | Campo | [Tipo](#tipos-de-dados) | Tamanho | Obrigatorio | Fixo | Mascara | Descricao                    | Observacao |
-|----|-------|------|:---------:|:-----------:|:----:|:-------:|-------------------------------------------------|------------|
+| #  | Campo | Tipo [(?)](#tipos-de-dados) | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
+|----|---|---|:---:|:---:|:---:|:---:|---|---|
 | 01 | `codigo` | Inteiro | 3 | S | S | 000 | Descreve o tipo da planilha: Fluxo de caixa | Informar: 04 |
 | 02 | `movimento` | Texto | 7 | S | N | mm/yyyy | Mes/Ano em que ocorreu a movimentacao | |
 | 03 | `chave` | Inteiro | 5 | S | N | 00000 | Usar codigo referente ao movimento | Ver [plano de contas](plano_de_contas.md) |
@@ -97,4 +134,9 @@ O arquivo deve **obrigatoriamente**:
 | 07 | `texto` | Texto | 100 | N | N | | **??????** | |
 | 08 | `historico` | Texto | 200 | N | N | | **??????** | |
 | 09 | `anexo` | Texto | 80 | S | N | | Descricao do nome do anexo que apresenta a comprovacao da movimentacao financeira | |
+
+### Bloco 31 - Pagamento RPA
+
+| #  | Campo | Tipo [(?)](#tipos-de-dados) | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
+|----|---|---|:---:|:---:|:---:|:---:|---|---|
 
