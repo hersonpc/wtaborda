@@ -1,10 +1,10 @@
 # Layout de integração WTaborda
 
-> **Versão 1.0 - Dezembro 2016**
+> **Nota Técnica 2016.001 - Versão 0.1.0 - Dezembro 2016**
 
 ## Introdução
 
-Manual de padronização da convergência sistemica de dados para o sistema WTaborda.
+Nesta nota técnica descrevemos o manual de padronização da convergência sistemica de dados para o sistema WTaborda. Para acompanhamento e controle das prestações de contas das Organizações Sociais de Saude (OSS) em parceiria com a Secretaria de Saúde do Estado.
 
 ## Regras gerais
 
@@ -84,7 +84,10 @@ O arquivo deve **obrigatoriamente**:
 |----|---|---|:---:|:---:|:---:|:---:|---|---|
 | 01 | `codigo` | Inteiro | 3 | S | S | 000 | Descreve o tipo da planilha | Informar: 17 |
 
-### Bloco 18 - Conciliação bancária
+[Voltar para indice](#indice)
+
+### Conciliação bancária
+#### Bloco 18
 
 | #  | Campo | Tipo | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
 |----|---|---|:---:|:---:|:---:|:---:|---|---|
