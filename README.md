@@ -46,7 +46,7 @@ O arquivo deve **obrigatoriamente**:
 ### Fluxo de caixa
 #### Bloco 04
 
-| #  | Campo | Tipo [(?)](#tipos-de-dados) | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
+| #  | Campo | Tipo | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
 |----|---|---|:---:|:---:|:---:|:---:|---|---|
 | 01 | `codigo` | Inteiro | 3 | S | S | 000 | Descreve o tipo da planilha | Informar: 04 |
 | 02 | `movimento` | Texto | 7 | S | N | mm/yyyy | Mes/Ano em que ocorreu a movimentacao | |
@@ -63,7 +63,7 @@ O arquivo deve **obrigatoriamente**:
 ### Aquisição de bens duraveis
 #### Bloco 16
 
-| #  | Campo | Tipo [(?)](#tipos-de-dados) | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
+| #  | Campo | Tipo | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
 |----|---|---|:---:|:---:|:---:|:---:|---|---|
 | 01 | `codigo` | Inteiro | 3 | S | S | 000 | Descreve o tipo da planilha | Informar: 16 |
 | 02 | `movimento` | Texto | 7 | S | N | mm/yyyy | Mes/Ano em que ocorreu a movimentacao | |
@@ -80,13 +80,13 @@ O arquivo deve **obrigatoriamente**:
 ### Remuneração dos membros da diretoria
 #### Bloco 17
 
-| #  | Campo | Tipo [(?)](#tipos-de-dados) | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
+| #  | Campo | Tipo | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
 |----|---|---|:---:|:---:|:---:|:---:|---|---|
 | 01 | `codigo` | Inteiro | 3 | S | S | 000 | Descreve o tipo da planilha | Informar: 17 |
 
 ### Bloco 18 - Conciliação bancária
 
-| #  | Campo | Tipo [(?)](#tipos-de-dados) | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
+| #  | Campo | Tipo | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
 |----|---|---|:---:|:---:|:---:|:---:|---|---|
 | 01 | `codigo` | Inteiro | 3 | S | S | 000 | Descreve o tipo da planilha | Informar: 18 |
 
@@ -95,7 +95,7 @@ O arquivo deve **obrigatoriamente**:
 ### Contas a pagar no mês
 #### Bloco 19
 
-| #  | Campo | Tipo [(?)](#tipos-de-dados) | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
+| #  | Campo | Tipo | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
 |----|---|---|:---:|:---:|:---:|:---:|---|---|
 | 01 | `codigo` | Inteiro | 3 | S | S | 000 | Descreve o tipo da planilha: Fluxo de caixa | Informar: 04 |
 | 02 | `movimento` | Texto | 7 | S | N | mm/yyyy | Mes/Ano em que ocorreu a movimentacao | |
@@ -118,7 +118,7 @@ O arquivo deve **obrigatoriamente**:
 ### Contrato de serviços terceirizados
 #### Bloco 20
 
-| #  | Campo | Tipo [(?)](#tipos-de-dados) | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
+| #  | Campo | Tipo | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
 |----|---|---|:---:|:---:|:---:|:---:|---|---|
 | 01 | `codigo` | Inteiro | 3 | S | S | 000 | Descreve o tipo da planilha | Informar: 20 |
 
@@ -127,7 +127,7 @@ O arquivo deve **obrigatoriamente**:
 ### Outros investimentos
 #### Bloco 21
 
-| #  | Campo | Tipo [(?)](#tipos-de-dados) | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
+| #  | Campo | Tipo | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
 |----|---|---|:---:|:---:|:---:|:---:|---|---|
 | 01 | `codigo` | Inteiro | 3 | S | S | 000 | Descreve o tipo da planilha | Informar: 21 |
 
@@ -136,7 +136,7 @@ O arquivo deve **obrigatoriamente**:
 ### Custo corporativo compartilhado
 #### Bloco 22
 
-| #  | Campo | Tipo [(?)](#tipos-de-dados) | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
+| #  | Campo | Tipo | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
 |----|---|---|:---:|:---:|:---:|:---:|---|---|
 | 01 | `codigo` | Inteiro | 3 | S | S | 000 | Descreve o tipo da planilha | Informar: 22 |
 
@@ -145,7 +145,7 @@ O arquivo deve **obrigatoriamente**:
 ### RH contrato no mês
 #### Bloco 29
 
-| #  | Campo | Tipo [(?)](#tipos-de-dados) | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
+| #  | Campo | Tipo | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
 |----|---|---|:---:|:---:|:---:|:---:|---|---|
 | 01 | `codigo` | Inteiro | 3 | S | S | 000 | Descreve o tipo da planilha | Informar: 29 |
 
@@ -154,7 +154,7 @@ O arquivo deve **obrigatoriamente**:
 ### Fluxo de caixa projetado
 #### Bloco 30
 
-| #  | Campo | Tipo [(?)](#tipos-de-dados) | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
+| #  | Campo | Tipo | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
 |----|---|---|:---:|:---:|:---:|:---:|---|---|
 | 01 | `codigo` | Inteiro | 3 | S | S | 000 | Descreve o tipo da planilha | Informar: 30 |
 | 02 | `movimento` | Texto | 7 | S | N | mm/yyyy | Mes/Ano em que ocorreu a movimentacao | |
@@ -171,7 +171,7 @@ O arquivo deve **obrigatoriamente**:
 ### Pagamento RPA
 #### Bloco 31
 
-| #  | Campo | Tipo [(?)](#tipos-de-dados) | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
+| #  | Campo | Tipo | Tamanho | Obrigatorio | Fixo | Mascara | Descricao | Observacao |
 |----|---|---|:---:|:---:|:---:|:---:|---|---|
 | 01 | `codigo` | Inteiro | 3 | S | S | 000 | Descreve o tipo da planilha | Informar: 31 |
 
