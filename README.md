@@ -19,12 +19,12 @@ O arquivo deve **obrigatoriamente**:
 
 ### Tipos de dados
 
-| Tipo | Descrição | Observações |
-|---|---------|------|
-| `Inteiro` | Número pertencente ao conjunto de números naturais | [Wikipédia](https://pt.wikipedia.org/wiki/N%C3%BAmero_inteiro) |
-| `Numérico` | Número pertencente ao conjunto de números racionais | [Wikipédia](https://pt.wikipedia.org/wiki/N%C3%BAmero_real) |
-| `Data` | Data no padrão brasileiro. | [Wikipédia](https://pt.wikipedia.org/wiki/Data), Mascara: dd/mm/yyyy |
-| `Texto` | Texto alphanumérico | [Wikipédia](https://pt.wikipedia.org/wiki/Alfanum%C3%A9rico), Obs: Obedecer o limite quando definido |
+| Tipo | Descrição | Conceito | Observações |
+|---|---|---|---|
+| `Inteiro` | Número pertencente ao conjunto de números naturais | [Wikipédia](https://pt.wikipedia.org/wiki/N%C3%BAmero_inteiro) | |
+| `Numérico` | Número pertencente ao conjunto de números racionais | [Wikipédia](https://pt.wikipedia.org/wiki/N%C3%BAmero_real) | |
+| `Data` | Data no padrão brasileiro | [Wikipédia](https://pt.wikipedia.org/wiki/Data) | Mascara: dd/mm/yyyy |
+| `Texto` | Texto alphanumérico | [Wikipédia](https://pt.wikipedia.org/wiki/Alfanum%C3%A9rico) | Obs: Obedecer o limite quando definido |
 
 ## Blocos de informação
 
@@ -32,7 +32,7 @@ O arquivo deve **obrigatoriamente**:
 
 * [Bloco 04 - Fluxo de caixa](#bloco-04---fluxo-de-caixa)
 * [Bloco 16 - Aquisicao de bens duraveis](#bloco-16---aquisicao-de-bens-duraveis)
-* [Bloco 17 - Remuneração dos membros da diretoria]#bloco-17---remuneracao-dos-membros-da-diretoria)
+* [Bloco 17 - Remuneração dos membros da diretoria](#bloco-17---remuneracao-dos-membros-da-diretoria)
 * [Bloco 18 - Conciliação bancária](#bloco-18---conciliacao-bancaria)
 * [Bloco 19 - Contas a pagar no mes](#bloco-19---contas-a-pagar-no-mes)
 * [Bloco 20 - Contrato de serviços terceirizados](#bloco-20---contrato-de-servicos-terceirizados)
