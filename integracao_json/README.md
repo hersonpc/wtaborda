@@ -12,7 +12,7 @@ Nesta sessão descrevemos o modelo de estrutua dos arquivos.
 
 ### Transação 4
 
-![Manual modelo](./conteudo/v0/wtaborda_transasao_4_manual.png)  
-
 * JSON: [wtaborda_transasao_4.json](./conteudo/v0/wtaborda_transasao_4.json)  
 * PDF: [wtaborda_transasao_4_exemplo.pdf](./conteudo/v0/wtaborda_transasao_4_exemplo.pdf)  
+
+![Manual modelo](./conteudo/v0/wtaborda_transasao_4_manual.png)  
