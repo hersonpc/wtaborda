@@ -1,0 +1,48 @@
+{
+  "instituicao": {
+    "contrato": "1",
+    "nome": "Hospital de Doenças Tropicais Dr. Anuar Auad",
+    "token": "35A37EC90BF74840AF8818C4482A702D"
+  },
+  "api_versao": "v0",
+  "transacao": "4",
+  "competencia": "01/12/2016",
+  "registros": [
+    {
+      "data": "05/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "155,08",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 2116 DE ALVAJAX COMERCIAL",
+      "anexo": "HDT2016125NOTAFISCAL2116ALVAJAXCOMERCIALLTDAEPP.28529.PDF"
+    },
+    {
+      "data": "05/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "1648,2",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 762649 DE HOSPFAR INDUSTR",
+      "anexo": "HDT2016125NOTAFISCAL762649HOSPFARINDUSTRIAECOMERCIODEPRODUTOSHOSPITALARESSA.28530.PDF"
+    },
+    {
+      "data": "05/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "23,55",
+      "lancamento": "TARIFA DOC/TED",
+      "historico": "PAGAMENTO DE TARIFAS BANCARIAS (DOC/TED)",
+      "anexo": "HDT2016125TARIFAS.28532.PDF"
+    },
+    {
+      "data": "05/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "260,5",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 1085 DE DISPOMED PRODUTOS",
+      "anexo": "HDT2016125NOTAFISCAL1085DISPOMEDPRODUTOSMEDICOSLTDAME.28591.PDF"
+    }
+  ]
+}
