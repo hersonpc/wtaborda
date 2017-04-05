@@ -14,5 +14,5 @@ Nesta sessão descrevemos o modelo de estrutua dos arquivos.
 
 ![Manual modelo](./conteudo/v0/wtaborda_transasao_4_manual.png)  
 
-[Download wtaborda_transasao_4.json](./conteudo/v0/wtaborda_transasao_4.json)  
-[Download wtaborda_transasao_4_exemplo.pdf](./conteudo/v0/wtaborda_transasao_4_exemplo.pdf)  
+* JSON: [wtaborda_transasao_4.json](./conteudo/v0/wtaborda_transasao_4.json)  
+* PDF: [Download wtaborda_transasao_4_exemplo.pdf](./conteudo/v0/wtaborda_transasao_4_exemplo.pdf)  
