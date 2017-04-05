@@ -12,7 +12,7 @@
       "data": "05/12/2016",
       "conta": "3",
       "tipo": "DESPESA",
-      "valor": "155,08",
+      "valor": "155.08",
       "lancamento": "PAGTO DEBITO C/C",
       "historico": "PAGTO DEBITO EM C/C - NF 2116 DE ALVAJAX COMERCIAL",
       "anexo": "HDT2016125NOTAFISCAL2116ALVAJAXCOMERCIALLTDAEPP.28529.PDF"
@@ -21,7 +21,7 @@
       "data": "05/12/2016",
       "conta": "3",
       "tipo": "DESPESA",
-      "valor": "1648,2",
+      "valor": "1648.2",
       "lancamento": "PAGTO DEBITO C/C",
       "historico": "PAGTO DEBITO EM C/C - NF 762649 DE HOSPFAR INDUSTR",
       "anexo": "HDT2016125NOTAFISCAL762649HOSPFARINDUSTRIAECOMERCIODEPRODUTOSHOSPITALARESSA.28530.PDF"
@@ -30,7 +30,7 @@
       "data": "05/12/2016",
       "conta": "3",
       "tipo": "DESPESA",
-      "valor": "23,55",
+      "valor": "23.55",
       "lancamento": "TARIFA DOC/TED",
       "historico": "PAGAMENTO DE TARIFAS BANCARIAS (DOC/TED)",
       "anexo": "HDT2016125TARIFAS.28532.PDF"
@@ -39,10 +39,1990 @@
       "data": "05/12/2016",
       "conta": "3",
       "tipo": "DESPESA",
-      "valor": "260,5",
+      "valor": "260.5",
       "lancamento": "PAGTO DEBITO C/C",
       "historico": "PAGTO DEBITO EM C/C - NF 1085 DE DISPOMED PRODUTOS",
       "anexo": "HDT2016125NOTAFISCAL1085DISPOMEDPRODUTOSMEDICOSLTDAME.28591.PDF"
+    },
+    {
+      "data": "07/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "5002.12",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - TRCT CRISTINA VIANNA MOREIRA",
+      "anexo": "HDT2016127SOLICITACAODEPPESSOAL81901828115.28572.PDF"
+    },
+    {
+      "data": "07/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "9220.41",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - TRCT JOSE ONOFRE DE CARVALHO",
+      "anexo": "HDT2016127SOLICITACAODEPPESSOAL01446695107.28573.PDF"
+    },
+    {
+      "data": "07/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "5606.02",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 0369106516 DE TELEFONICA",
+      "anexo": "HDT2016127NOTAFISCALDESERVICO0369106516TELEFONICABRASILSA.28575.PDF"
+    },
+    {
+      "data": "07/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "8583.25",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 13185 DE BRAKKO COMERCIO",
+      "anexo": "HDT2016127NOTAFISCALDESERVICO13185BRAKKOCOMERCIOEIMPLTDA.28576.PDF"
+    },
+    {
+      "data": "07/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "8583.25",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 13466 DE BRAKKO COMERCIO",
+      "anexo": "HDT2016127NOTAFISCALDESERVICO13466BRAKKOCOMERCIOEIMPLTDA.28577.PDF"
+    },
+    {
+      "data": "07/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "10527",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 38841 DE CIENTIFICA MEDIC",
+      "anexo": "HDT2016127NOTAFISCAL38841CIENTIFICAMEDICAHOSPITALARLTDA.28578.PDF"
+    },
+    {
+      "data": "07/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "14158.58",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 39110 DE CIENTIFICA MEDIC",
+      "anexo": "HDT2016127NOTAFISCAL39110CIENTIFICAMEDICAHOSPITALARLTDA.28579.PDF"
+    },
+    {
+      "data": "07/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "9500",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 34145 DE COPYSYSTEMS  CO",
+      "anexo": "HDT2016127NOTAFISCALDESERVICO34145COPYSYSTEMSCOPIADORASSISTEMASESERVIÇOSLTDA.28580.PDF"
+    },
+    {
+      "data": "07/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "9500",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 34392 DE COPYSYSTEMS  CO",
+      "anexo": "HDT2016127NOTAFISCALDESERVICO34392COPYSYSTEMSCOPIADORASSISTEMASESERVIÇOSLTDA.28581.PDF"
+    },
+    {
+      "data": "07/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "6634.74",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 5624 DE MAQUET DO BRASIL",
+      "anexo": "HDT2016127NOTAFISCALDESERVICO5624MAQUETDOBRASILEQUIPAMENTOSMEDICOSLT.28582.PDF"
+    },
+    {
+      "data": "07/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "6634.74",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 5710 DE MAQUET DO BRASIL",
+      "anexo": "HDT2016127NOTAFISCALDESERVICO5710MAQUETDOBRASILEQUIPAMENTOSMEDICOSLT.28583.PDF"
+    },
+    {
+      "data": "07/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "159",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 7653 DE SUPRIMAIS SUPRIME",
+      "anexo": "HDT2016127NOTAFISCAL7653SUPRIMAISSUPRIMENTOSPARAINFORMATICAL.28584.PDF"
+    },
+    {
+      "data": "07/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "252",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 7781 DE SUPRIMAIS SUPRIME",
+      "anexo": "HDT2016127NOTAFISCAL7781SUPRIMAISSUPRIMENTOSPARAINFORMATICAL.28585.PDF"
+    },
+    {
+      "data": "07/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "324",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 7831 DE SUPRIMAIS SUPRIME",
+      "anexo": "HDT2016127NOTAFISCAL7831SUPRIMAISSUPRIMENTOSPARAINFORMATICAL.28586.PDF"
+    },
+    {
+      "data": "07/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "834",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 7642 DE SUPRIMAIS SUPRIME",
+      "anexo": "HDT2016127NOTAFISCAL7642SUPRIMAISSUPRIMENTOSPARAINFORMATICAL.28587.PDF"
+    },
+    {
+      "data": "07/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "1510.39",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 7872 DE SUPRIMAIS SUPRIME",
+      "anexo": "HDT2016127NOTAFISCAL7872SUPRIMAISSUPRIMENTOSPARAINFORMATICAL.28588.PDF"
+    },
+    {
+      "data": "07/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "1534.29",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 7798 DE SUPRIMAIS SUPRIME",
+      "anexo": "HDT2016127NOTAFISCAL7798SUPRIMAISSUPRIMENTOSPARAINFORMATICAL.28589.PDF"
+    },
+    {
+      "data": "07/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "5455.49",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 0376661503 DE TELEFONICA",
+      "anexo": "HDT2016127NOTAFISCALDESERVICO0376661503TELEFONICABRASILSA.28590.PDF"
+    },
+    {
+      "data": "07/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "62.8",
+      "lancamento": "TARIFA DOC/TED",
+      "historico": "PAGAMENTO DE TARIFAS BANCARIAS",
+      "anexo": "HDT2016127TARIFAS.28592.PDF"
+    },
+    {
+      "data": "07/12/2016",
+      "conta": "3",
+      "tipo": "RECEITA",
+      "valor": "247334.74",
+      "lancamento": "REPASSE SESGO",
+      "historico": "REPASSE SES/GO - HDT 10/2016",
+      "anexo": "HDT2016127REPASSE.28593.PDF"
+    },
+    {
+      "data": "08/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "17459",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - TRCT TIAGO DOMINGUES",
+      "anexo": "HDT2016128SOLICITACAODEPPESSOAL27208790884.28595.PDF"
+    },
+    {
+      "data": "08/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "1600",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 104 DE ADMIR RODRIGUES R",
+      "anexo": "HDT2016128NOTAFISCALDESERVICO104ADMIRRODRIGUES.28596.PDF"
+    },
+    {
+      "data": "08/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "2400",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 103 DE ADMIR RODRIGUES R",
+      "anexo": "HDT2016128NOTAFISCALDESERVICO103ADMIRRODRIGUES.28597.PDF"
+    },
+    {
+      "data": "08/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "43",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 39963 DE CIENTIFICA MEDIC",
+      "anexo": "HDT2016128NOTAFISCAL39963CIENTIFICAMEDICAHOSPITALARLTDA.28598.PDF"
+    },
+    {
+      "data": "08/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "43",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 39682 DE CIENTIFICA MEDIC",
+      "anexo": "HDT2016128NOTAFISCAL39682CIENTIFICAMEDICAHOSPITALARLTDA.28599.PDF"
+    },
+    {
+      "data": "08/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "43",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 39762 DE CIENTIFICA MEDIC",
+      "anexo": "HDT2016128NOTAFISCAL39762CIENTIFICAMEDICAHOSPITALARLTDA.28600.PDF"
+    },
+    {
+      "data": "08/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "44",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 39336 DE CIENTIFICA MEDIC",
+      "anexo": "HDT2016128NOTAFISCAL39336CIENTIFICAMEDICAHOSPITALARLTDA.28601.PDF"
+    },
+    {
+      "data": "08/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "63.9",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 40067 DE CIENTIFICA MEDIC",
+      "anexo": "HDT2016128NOTAFISCAL40067CIENTIFICAMEDICAHOSPITALARLTDA.28602.PDF"
+    },
+    {
+      "data": "08/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "85",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 39550 DE CIENTIFICA MEDIC",
+      "anexo": "HDT2016128NOTAFISCAL39550CIENTIFICAMEDICAHOSPITALARLTDA.28603.PDF"
+    },
+    {
+      "data": "08/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "130.1",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 38707 DE CIENTIFICA MEDIC",
+      "anexo": "HDT2016128NOTAFISCAL38707CIENTIFICAMEDICAHOSPITALARLTDA.28604.PDF"
+    },
+    {
+      "data": "08/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "159.9",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 39972 DE CIENTIFICA MEDIC",
+      "anexo": "HDT2016128NOTAFISCAL39972CIENTIFICAMEDICAHOSPITALARLTDA.28605.PDF"
+    },
+    {
+      "data": "08/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "162",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 38750 DE CIENTIFICA MEDIC",
+      "anexo": "HDT2016128NOTAFISCAL38750CIENTIFICAMEDICAHOSPITALARLTDA.28606.PDF"
+    },
+    {
+      "data": "08/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "225",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 39754 DE CIENTIFICA MEDIC",
+      "anexo": "HDT2016128NOTAFISCAL39754CIENTIFICAMEDICAHOSPITALARLTDA.28607.PDF"
+    },
+    {
+      "data": "08/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "240",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 38616 DE CIENTIFICA MEDIC",
+      "anexo": "HDT2016128NOTAFISCAL38616CIENTIFICAMEDICAHOSPITALARLTDA.28608.PDF"
+    },
+    {
+      "data": "08/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "288.68",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 36886 DE CIENTIFICA MEDIC",
+      "anexo": "HDT2016128NOTAFISCAL36886CIENTIFICAMEDICAHOSPITALARLTDA.28609.PDF"
+    },
+    {
+      "data": "08/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "378",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 38615 DE CIENTIFICA MEDIC",
+      "anexo": "HDT2016128NOTAFISCAL38615CIENTIFICAMEDICAHOSPITALARLTDA.28610.PDF"
+    },
+    {
+      "data": "08/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "463.68",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 38721 DE CIENTIFICA MEDIC",
+      "anexo": "HDT2016128NOTAFISCAL38721CIENTIFICAMEDICAHOSPITALARLTDA.28611.PDF"
+    },
+    {
+      "data": "08/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "478",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 39007 DE CIENTIFICA MEDIC",
+      "anexo": "HDT2016128NOTAFISCAL39007CIENTIFICAMEDICAHOSPITALARLTDA.28612.PDF"
+    },
+    {
+      "data": "08/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "514.5",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 38264 DE CIENTIFICA MEDIC",
+      "anexo": "HDT2016128NOTAFISCAL38264CIENTIFICAMEDICAHOSPITALARLTDA.28613.PDF"
+    },
+    {
+      "data": "08/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "524",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 38239 DE CIENTIFICA MEDIC",
+      "anexo": "HDT2016128NOTAFISCAL38239CIENTIFICAMEDICAHOSPITALARLTDA.28614.PDF"
+    },
+    {
+      "data": "08/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "1100",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 38242 DE CIENTIFICA MEDIC",
+      "anexo": "HDT2016128NOTAFISCAL38242CIENTIFICAMEDICAHOSPITALARLTDA.28615.PDF"
+    },
+    {
+      "data": "08/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "3145",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 35850 DE CIENTIFICA MEDIC",
+      "anexo": "HDT2016128NOTAFISCAL35850CIENTIFICAMEDICAHOSPITALARLTDA.28616.PDF"
+    },
+    {
+      "data": "08/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "3316",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 38948 DE CIENTIFICA MEDIC",
+      "anexo": "HDT2016128NOTAFISCAL38948CIENTIFICAMEDICAHOSPITALARLTDA.28617.PDF"
+    },
+    {
+      "data": "08/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "4190.17",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 38553 DE CIENTIFICA MEDIC",
+      "anexo": "HDT2016128NOTAFISCAL38553CIENTIFICAMEDICAHOSPITALARLTDA.28618.PDF"
+    },
+    {
+      "data": "08/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "4608",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 39580 DE CIENTIFICA MEDIC",
+      "anexo": "HDT2016128NOTAFISCAL39580CIENTIFICAMEDICAHOSPITALARLTDA.28619.PDF"
+    },
+    {
+      "data": "08/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "5970.66",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 38589 DE CIENTIFICA MEDIC",
+      "anexo": "HDT2016128NOTAFISCAL38589CIENTIFICAMEDICAHOSPITALARLTDA.28620.PDF"
+    },
+    {
+      "data": "08/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "8399.77",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 38708 DE CIENTIFICA MEDIC",
+      "anexo": "HDT2016128NOTAFISCAL38708CIENTIFICAMEDICAHOSPITALARLTDA.28621.PDF"
+    },
+    {
+      "data": "08/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "15307.73",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 38719 DE CIENTIFICA MEDIC",
+      "anexo": "HDT2016128NOTAFISCAL38719CIENTIFICAMEDICAHOSPITALARLTDA.28622.PDF"
+    },
+    {
+      "data": "08/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "200000",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 155 DE SANOLI INDUSTRIA",
+      "anexo": "HDT2016128NOTAFISCALDESERVICO155SANOLIINDUSTRIAECOMDEALIMENTACAOLT.28663.PDF"
+    },
+    {
+      "data": "08/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "7.85",
+      "lancamento": "TARIFA DOC/TED",
+      "historico": "PAGAMENTO DE TARIFAS BANCARIAS (DOC/TED)",
+      "anexo": "HDT2016128TARIFAS.28664.PDF"
+    },
+    {
+      "data": "08/12/2016",
+      "conta": "3",
+      "tipo": "RECEITA",
+      "valor": "300000",
+      "lancamento": "REPASSE SESGO",
+      "historico": "REPASSE SES/GO - HDT 10/2016",
+      "anexo": "HDT2016128REPASSE.28665.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "352",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - ALIMENTOS PROV. SIRLEI FERRE",
+      "anexo": "HDT2016129SOLICITACAODEPPESSOAL112016.28623.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "17446.51",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 5556 DE COOPERATIVA DOS",
+      "anexo": "HDT2016129NOTAFISCALDESERVICO5556COOPERATIVADOSMEDICOSANESTESIOLOGISTA.28624.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "22186.84",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 9463 DE MV INFORMATICA N",
+      "anexo": "HDT2016129NOTAFISCALDESERVICO9463MVINFORMATICANORDESTELTDA.28625.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "5832.6",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 479 DE BASTIDORES ASSESS",
+      "anexo": "HDT2016129NOTAFISCALDESERVICO479BASTIDORESASSESSORIAEEVENTOSLTDA.28626.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "567.5",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 817 DE DISPOMED PRODUTOS",
+      "anexo": "HDT2016129NOTAFISCAL817DISPOMEDPRODUTOSMEDICOSLTDAME.28629.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "581.25",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 815 DE DISPOMED PRODUTOS",
+      "anexo": "HDT2016129NOTAFISCAL815DISPOMEDPRODUTOSMEDICOSLTDAME.28630.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "2025.96",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 850 DE DISPOMED PRODUTOS",
+      "anexo": "HDT2016129NOTAFISCAL850DISPOMEDPRODUTOSMEDICOSLTDAME.28631.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "4115.3",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 798 DE DISPOMED PRODUTOS",
+      "anexo": "HDT2016129NOTAFISCAL798DISPOMEDPRODUTOSMEDICOSLTDAME.28632.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "303.81",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 756877 DE HOSPFAR INDUSTR",
+      "anexo": "HDT2016129NOTAFISCAL756877HOSPFARINDUSTRIAECOMERCIODEPRODUTOSHOSPITALARESSA.28633.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "650.25",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 757283 DE HOSPFAR INDUSTR",
+      "anexo": "HDT2016129NOTAFISCAL757283HOSPFARINDUSTRIAECOMERCIODEPRODUTOSHOSPITALARESSA.28634.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "2366.2",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 757762 DE HOSPFAR INDUSTR",
+      "anexo": "HDT2016129NOTAFISCAL757762HOSPFARINDUSTRIAECOMERCIODEPRODUTOSHOSPITALARESSA.28635.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "3150",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 758820 DE HOSPFAR INDUSTR",
+      "anexo": "HDT2016129NOTAFISCAL758820HOSPFARINDUSTRIAECOMERCIODEPRODUTOSHOSPITALARESSA.28636.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "9321.73",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 758195 DE HOSPFAR INDUSTR",
+      "anexo": "HDT2016129NOTAFISCAL758195HOSPFARINDUSTRIAECOMERCIODEPRODUTOSHOSPITALARESSA.28637.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "415",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 210034 DE MEDCOMERCE COM.",
+      "anexo": "HDT2016129NOTAFISCAL210034MEDCOMERCECOMDEMEDICAMENTOSLTDA.28638.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "4350",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 208693 DE MEDCOMERCE COM.",
+      "anexo": "HDT2016129NOTAFISCAL208693MEDCOMERCECOMDEMEDICAMENTOSLTDA.28639.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "4610",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 206597 DE MEDCOMERCE COM.",
+      "anexo": "HDT2016129NOTAFISCAL206597MEDCOMERCECOMDEMEDICAMENTOSLTDA.28640.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "320",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 11371 DE MEDLINN HOSPITAL",
+      "anexo": "HDT2016129NOTAFISCAL11371MEDLINNHOSPITALARLTDA-ME.28641.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "500",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 11600 DE MEDLINN HOSPITAL",
+      "anexo": "HDT2016129NOTAFISCAL11600MEDLINNHOSPITALARLTDA-ME.28642.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "580",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 11416 DE MEDLINN HOSPITAL",
+      "anexo": "HDT2016129NOTAFISCAL11416MEDLINNHOSPITALARLTDA-ME.28643.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "1080",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 11297 DE MEDLINN HOSPITAL",
+      "anexo": "HDT2016129NOTAFISCAL11297MEDLINNHOSPITALARLTDA-ME.28644.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "2200",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 11604 DE MEDLINN HOSPITAL",
+      "anexo": "HDT2016129NOTAFISCAL11604MEDLINNHOSPITALARLTDA-ME.28645.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "4331.6",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 214912 DE RM HOSPITALAR L",
+      "anexo": "HDT2016129NOTAFISCAL214912RMHOSPITALARLTDA.28646.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "2851.2",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 216570 DE RM HOSPITALAR L",
+      "anexo": "HDT2016129NOTAFISCAL216570RMHOSPITALARLTDA.28647.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "2808",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 215051 DE RM HOSPITALAR L",
+      "anexo": "HDT2016129NOTAFISCAL215051RMHOSPITALARLTDA.28648.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "2613",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 215558 DE RM HOSPITALAR L",
+      "anexo": "HDT2016129NOTAFISCAL215558RMHOSPITALARLTDA.28649.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "1983.6",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 216274 DE RM HOSPITALAR L",
+      "anexo": "HDT2016129NOTAFISCAL216274RMHOSPITALARLTDA.28650.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "1539.86",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 216572 DE RM HOSPITALAR L",
+      "anexo": "HDT2016129NOTAFISCAL216572RMHOSPITALARLTDA.28651.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "1314.18",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 216496 DE RM HOSPITALAR L",
+      "anexo": "HDT2016129NOTAFISCAL216496RMHOSPITALARLTDA.28652.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "1288.02",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 216579 DE RM HOSPITALAR L",
+      "anexo": "HDT2016129NOTAFISCAL216579RMHOSPITALARLTDA.28653.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "1041.91",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 216275 DE RM HOSPITALAR L",
+      "anexo": "HDT2016129NOTAFISCAL216275RMHOSPITALARLTDA.28654.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "892",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 215101 DE RM HOSPITALAR L",
+      "anexo": "HDT2016129NOTAFISCAL215101RMHOSPITALARLTDA.28655.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "666.47",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 214742 DE RM HOSPITALAR L",
+      "anexo": "HDT2016129NOTAFISCAL214742RMHOSPITALARLTDA.28656.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "368.4",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 216268 DE RM HOSPITALAR L",
+      "anexo": "HDT2016129NOTAFISCAL216268RMHOSPITALARLTDA.28657.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "296",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 214896 DE RM HOSPITALAR L",
+      "anexo": "HDT2016129NOTAFISCAL214896RMHOSPITALARLTDA.28658.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "273.9",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 215188 DE RM HOSPITALAR L",
+      "anexo": "HDT2016129NOTAFISCAL215188RMHOSPITALARLTDA.28659.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "221.52",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 217857 DE RM HOSPITALAR L",
+      "anexo": "HDT2016129NOTAFISCAL217857RMHOSPITALARLTDA.28660.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "7086.98",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 61 DE N1PUBLICIDADE E PR",
+      "anexo": "HDT2016129NOTAFISCALDESERVICO61N1PUBLICIDADEEPROPAGANDAEIRELI-ME.28662.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "47.1",
+      "lancamento": "TARIFA DOC/TED",
+      "historico": "PAGAMENTO DE TARIFAS BANCARIAS (DOC/TED)",
+      "anexo": "HDT2016129TARIFAS.28666.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "192.9",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 1090 DE DISPOMED PRODUTOS",
+      "anexo": "HDT2016129NOTAFISCAL1090DISPOMEDPRODUTOSMEDICOSLTDAME.28669.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "222.75",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 4218 DE AMERICA TINTAS EI",
+      "anexo": "HDT2016129NOTAFISCAL4218AMERICATINTASEIRELIEPP.28685.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "472.55",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 4219 DE AMERICA TINTAS EI",
+      "anexo": "HDT2016129NOTAFISCAL4219AMERICATINTASEIRELIEPP.28686.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "1894.3",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 4220 DE AMERICA TINTAS EI",
+      "anexo": "HDT2016129NOTAFISCAL4220AMERICATINTASEIRELIEPP.28687.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "264",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 15812 DE BORRACHAS ANHANG",
+      "anexo": "HDT2016129NOTAFISCAL15812BORRACHASANHANGUERALTDA-EPP.28688.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "325",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 86901 DE REGIA COMERCIO D",
+      "anexo": "HDT2016129NOTAFISCAL86901REGIACOMERCIODEINFORMATICALTDA.28689.PDF"
+    },
+    {
+      "data": "12/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "878.62",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 2194 DE PONCIANO CENTRO",
+      "anexo": "HDT20161212NOTAFISCALDEPRODUTO2194PONCIANOCENTROAUTOMOTIVOLTDA.28671.PDF"
+    },
+    {
+      "data": "12/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "1459.3",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 2280 DE PONCIANO CENTRO",
+      "anexo": "HDT20161212NOTAFISCALDEPRODUTO2280PONCIANOCENTROAUTOMOTIVOLTDA.28672.PDF"
+    },
+    {
+      "data": "12/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "372.6",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 758081 DE HOSPFAR INDUSTR",
+      "anexo": "HDT20161212NOTAFISCAL758081HOSPFARINDUSTRIAECOMERCIODEPRODUTOSHOSPITALARESSA.28676.PDF"
+    },
+    {
+      "data": "12/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "820",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 758573 DE HOSPFAR INDUSTR",
+      "anexo": "HDT20161212NOTAFISCAL758573HOSPFARINDUSTRIAECOMERCIODEPRODUTOSHOSPITALARESSA.28677.PDF"
+    },
+    {
+      "data": "12/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "920",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 759447 DE HOSPFAR INDUSTR",
+      "anexo": "HDT20161212NOTAFISCAL759447HOSPFARINDUSTRIAECOMERCIODEPRODUTOSHOSPITALARESSA.28678.PDF"
+    },
+    {
+      "data": "12/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "1025",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 758778 DE HOSPFAR INDUSTR",
+      "anexo": "HDT20161212NOTAFISCAL758778HOSPFARINDUSTRIAECOMERCIODEPRODUTOSHOSPITALARESSA.28679.PDF"
+    },
+    {
+      "data": "12/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "2075.63",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 761401 DE HOSPFAR INDUSTR",
+      "anexo": "HDT20161212NOTAFISCAL761401HOSPFARINDUSTRIAECOMERCIODEPRODUTOSHOSPITALARESSA.28680.PDF"
+    },
+    {
+      "data": "12/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "3504",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 757623 DE HOSPFAR INDUSTR",
+      "anexo": "HDT20161212NOTAFISCAL757623HOSPFARINDUSTRIAECOMERCIODEPRODUTOSHOSPITALARESSA.28681.PDF"
+    },
+    {
+      "data": "12/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "3700",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 761082 DE HOSPFAR INDUSTR",
+      "anexo": "HDT20161212NOTAFISCAL761082HOSPFARINDUSTRIAECOMERCIODEPRODUTOSHOSPITALARESSA.28682.PDF"
+    },
+    {
+      "data": "12/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "7380.14",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 757308 DE HOSPFAR INDUSTR",
+      "anexo": "HDT20161212NOTAFISCAL757308HOSPFARINDUSTRIAECOMERCIODEPRODUTOSHOSPITALARESSA.28683.PDF"
+    },
+    {
+      "data": "12/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "86.35",
+      "lancamento": "TARIFA DOC/TED",
+      "historico": "PAGAMENTO DE TARIFAS BANCARIAS (DOC/TED)",
+      "anexo": "HDT20161212TARIFAS.28690.PDF"
+    },
+    {
+      "data": "12/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "119.84",
+      "lancamento": "TARIFA DOC/TED",
+      "historico": "PAGAMENTO DE TARIFAS BANCÁRIAS (CX PROG FORN)",
+      "anexo": "HDT20161212TARIFAS.28691.PDF"
+    },
+    {
+      "data": "12/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "1.64",
+      "lancamento": "TARIFA DOC/TED",
+      "historico": "PAGAMENTO DE TARIFAS BANCARIAS (CX PROG SALARIO)",
+      "anexo": "HDT20161212TARIFAS.28692.PDF"
+    },
+    {
+      "data": "12/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "836.37",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 761399 DE HOSPFAR INDUSTR",
+      "anexo": "HDT20161212NOTAFISCAL761399HOSPFARINDUSTRIAECOMERCIODEPRODUTOSHOSPITALARESSA.28693.PDF"
+    },
+    {
+      "data": "13/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "1193.98",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - ALIMENTOS PROV. 11/2016 VALE",
+      "anexo": "HDT20161213SOLICITACAODEPPESSOAL112016.28694.PDF"
+    },
+    {
+      "data": "13/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "7.85",
+      "lancamento": "TARIFA DOC/TED",
+      "historico": "PAGAMENTO DE TARIFAS BANCÁRIAS (DOC/TED)",
+      "anexo": "HDT20161213TARIFAS.28695.PDF"
+    },
+    {
+      "data": "13/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "148.6",
+      "lancamento": "TARIFA DOC/TED",
+      "historico": "PAGAMENTO DE TARIFAS BANCARIAS (CX PROGR FORN)",
+      "anexo": "HDT20161213TARIFAS.28696.PDF"
+    },
+    {
+      "data": "13/12/2016",
+      "conta": "3",
+      "tipo": "RECEITA",
+      "valor": "63485.4",
+      "lancamento": "REPASSE SESGO",
+      "historico": "REPASSE SES/GO - HDT 10/2016",
+      "anexo": "HDT20161213REPASSE.28779.PDF"
+    },
+    {
+      "data": "13/12/2016",
+      "conta": "3",
+      "tipo": "RECEITA",
+      "valor": "536514.6",
+      "lancamento": "REPASSE SESGO",
+      "historico": "REPASSE SES/GO - HDT 11/2016",
+      "anexo": "HDT20161213REPASSE.28780.PDF"
+    },
+    {
+      "data": "13/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "7380",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 9116 DE OLIVERTEC EQUIPAM",
+      "anexo": "HDT20161213NOTAFISCAL9116OLIVERTECEQUIPAMENTOSHOSPITALARESLTDA.28781.PDF"
+    },
+    {
+      "data": "14/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "515.04",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 5541 DE INDEPENDENCIA CO",
+      "anexo": "HDT20161214NFDELOCAÇÃO5541INDEPENDENCIACOMERCIOEDERIVADOSDEPETROLEOLTDA.28772.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "6",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 40092 DE CIENTIFICA MEDIC",
+      "anexo": "HDT20161215NOTAFISCAL40092CIENTIFICAMEDICAHOSPITALARLTDA.28698.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "120",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 39964 DE CIENTIFICA MEDIC",
+      "anexo": "HDT20161215NOTAFISCAL39964CIENTIFICAMEDICAHOSPITALARLTDA.28699.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "217.5",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 39965 DE CIENTIFICA MEDIC",
+      "anexo": "HDT20161215NOTAFISCAL39965CIENTIFICAMEDICAHOSPITALARLTDA.28700.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "303.5",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 39768 DE CIENTIFICA MEDIC",
+      "anexo": "HDT20161215NOTAFISCAL39768CIENTIFICAMEDICAHOSPITALARLTDA.28701.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "399.2",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 39335 DE CIENTIFICA MEDIC",
+      "anexo": "HDT20161215NOTAFISCAL39335CIENTIFICAMEDICAHOSPITALARLTDA.28702.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "508",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 39756 DE CIENTIFICA MEDIC",
+      "anexo": "HDT20161215NOTAFISCAL39756CIENTIFICAMEDICAHOSPITALARLTDA.28703.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "577.16",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 39339 DE CIENTIFICA MEDIC",
+      "anexo": "HDT20161215NOTAFISCAL39339CIENTIFICAMEDICAHOSPITALARLTDA.28704.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "796.5",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 39973 DE CIENTIFICA MEDIC",
+      "anexo": "HDT20161215NOTAFISCAL39973CIENTIFICAMEDICAHOSPITALARLTDA.28705.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "802.4",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 39125 DE CIENTIFICA MEDIC",
+      "anexo": "HDT20161215NOTAFISCAL39125CIENTIFICAMEDICAHOSPITALARLTDA.28706.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "825",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 40112 DE CIENTIFICA MEDIC",
+      "anexo": "HDT20161215NOTAFISCAL40112CIENTIFICAMEDICAHOSPITALARLTDA.28707.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "1509",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 39763 DE CIENTIFICA MEDIC",
+      "anexo": "HDT20161215NOTAFISCAL39763CIENTIFICAMEDICAHOSPITALARLTDA.28708.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "1595",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 39337 DE CIENTIFICA MEDIC",
+      "anexo": "HDT20161215NOTAFISCAL39337CIENTIFICAMEDICAHOSPITALARLTDA.28709.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "1672.42",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 39757 DE CIENTIFICA MEDIC",
+      "anexo": "HDT20161215NOTAFISCAL39757CIENTIFICAMEDICAHOSPITALARLTDA.28710.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "1869.4",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 38942 DE CIENTIFICA MEDIC",
+      "anexo": "HDT20161215NOTAFISCAL38942CIENTIFICAMEDICAHOSPITALARLTDA.28711.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "2328.03",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 39976 DE CIENTIFICA MEDIC",
+      "anexo": "HDT20161215NOTAFISCAL39976CIENTIFICAMEDICAHOSPITALARLTDA.28712.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "2918.3",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 39974 DE CIENTIFICA MEDIC",
+      "anexo": "HDT20161215NOTAFISCAL39974CIENTIFICAMEDICAHOSPITALARLTDA.28713.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "3202.45",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 39382 DE CIENTIFICA MEDIC",
+      "anexo": "HDT20161215NOTAFISCAL39382CIENTIFICAMEDICAHOSPITALARLTDA.28714.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "3466.75",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 39755 DE CIENTIFICA MEDIC",
+      "anexo": "HDT20161215NOTAFISCAL39755CIENTIFICAMEDICAHOSPITALARLTDA.28715.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "3673.5",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 39379 DE CIENTIFICA MEDIC",
+      "anexo": "HDT20161215NOTAFISCAL39379CIENTIFICAMEDICAHOSPITALARLTDA.28716.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "4604.25",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 39975 DE CIENTIFICA MEDIC",
+      "anexo": "HDT20161215NOTAFISCAL39975CIENTIFICAMEDICAHOSPITALARLTDA.28717.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "6003.9",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 39340 DE CIENTIFICA MEDIC",
+      "anexo": "HDT20161215NOTAFISCAL39340CIENTIFICAMEDICAHOSPITALARLTDA.28718.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "41.21",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 880 DE DISPOMED PRODUTOS",
+      "anexo": "HDT20161215NOTAFISCAL880DISPOMEDPRODUTOSMEDICOSLTDAME.28719.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "109.84",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 942 DE DISPOMED PRODUTOS",
+      "anexo": "HDT20161215NOTAFISCAL942DISPOMEDPRODUTOSMEDICOSLTDAME.28720.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "206.06",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 879 DE DISPOMED PRODUTOS",
+      "anexo": "HDT20161215NOTAFISCAL879DISPOMEDPRODUTOSMEDICOSLTDAME.28721.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "238.18",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 912 DE DISPOMED PRODUTOS",
+      "anexo": "HDT20161215NOTAFISCAL912DISPOMEDPRODUTOSMEDICOSLTDAME.28722.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "367.91",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 936 DE DISPOMED PRODUTOS",
+      "anexo": "HDT20161215NOTAFISCAL936DISPOMEDPRODUTOSMEDICOSLTDAME.28723.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "502.65",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 892 DE DISPOMED PRODUTOS",
+      "anexo": "HDT20161215NOTAFISCAL892DISPOMEDPRODUTOSMEDICOSLTDAME.28724.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "567.5",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 874 DE DISPOMED PRODUTOS",
+      "anexo": "HDT20161215NOTAFISCAL874DISPOMEDPRODUTOSMEDICOSLTDAME.28725.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "660.31",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 947 DE DISPOMED PRODUTOS",
+      "anexo": "HDT20161215NOTAFISCAL947DISPOMEDPRODUTOSMEDICOSLTDAME.28726.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "1082.15",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 863 DE DISPOMED PRODUTOS",
+      "anexo": "HDT20161215NOTAFISCAL863DISPOMEDPRODUTOSMEDICOSLTDAME.28727.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "1170",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 973 DE DISPOMED PRODUTOS",
+      "anexo": "HDT20161215NOTAFISCAL973DISPOMEDPRODUTOSMEDICOSLTDAME.28728.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "1349.7",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 945 DE DISPOMED PRODUTOS",
+      "anexo": "HDT20161215NOTAFISCAL945DISPOMEDPRODUTOSMEDICOSLTDAME.28729.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "1402.66",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 902 DE DISPOMED PRODUTOS",
+      "anexo": "HDT20161215NOTAFISCAL902DISPOMEDPRODUTOSMEDICOSLTDAME.28730.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "1554",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 913 DE DISPOMED PRODUTOS",
+      "anexo": "HDT20161215NOTAFISCAL913DISPOMEDPRODUTOSMEDICOSLTDAME.28731.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "1617",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 960 DE DISPOMED PRODUTOS",
+      "anexo": "HDT20161215NOTAFISCAL960DISPOMEDPRODUTOSMEDICOSLTDAME.28732.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "1646.12",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 862 DE DISPOMED PRODUTOS",
+      "anexo": "HDT20161215NOTAFISCAL862DISPOMEDPRODUTOSMEDICOSLTDAME.28733.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "2442",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 952 DE DISPOMED PRODUTOS",
+      "anexo": "HDT20161215NOTAFISCAL952DISPOMEDPRODUTOSMEDICOSLTDAME.28734.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "4545.2",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 1009 DE DISPOMED PRODUTOS",
+      "anexo": "HDT20161215NOTAFISCAL1009DISPOMEDPRODUTOSMEDICOSLTDAME.28735.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "17649",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 238084 DE HALEX ISTAR IND",
+      "anexo": "HDT20161215NOTAFISCAL238084HALEXISTARINDUSTRIAFARMACEUTICALTDA.28736.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "297.6",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 214051 DE MEDCOMERCE COM.",
+      "anexo": "HDT20161215NOTAFISCAL214051MEDCOMERCECOMDEMEDICAMENTOSLTDA.28737.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "6100",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 215818 DE MEDCOMERCE COM.",
+      "anexo": "HDT20161215NOTAFISCAL215818MEDCOMERCECOMDEMEDICAMENTOSLTDA.28738.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "8500",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 215528 DE MEDCOMERCE COM.",
+      "anexo": "HDT20161215NOTAFISCAL215528MEDCOMERCECOMDEMEDICAMENTOSLTDA.28739.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "10919.5",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 211811 DE MEDCOMERCE COM.",
+      "anexo": "HDT20161215NOTAFISCAL211811MEDCOMERCECOMDEMEDICAMENTOSLTDA.28740.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "800",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 12041 DE MEDLINN HOSPITAL",
+      "anexo": "HDT20161215NOTAFISCAL12041MEDLINNHOSPITALARLTDA-ME.28741.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "1500",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 12051 DE MEDLINN HOSPITAL",
+      "anexo": "HDT20161215NOTAFISCAL12051MEDLINNHOSPITALARLTDA-ME.28742.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "1660",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 11676 DE MEDLINN HOSPITAL",
+      "anexo": "HDT20161215NOTAFISCAL11676MEDLINNHOSPITALARLTDA-ME.28743.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "200.68",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 217436 DE RM HOSPITALAR L",
+      "anexo": "HDT20161215NOTAFISCAL217436RMHOSPITALARLTDA.28744.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "239",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 219486 DE RM HOSPITALAR L",
+      "anexo": "HDT20161215NOTAFISCAL219486RMHOSPITALARLTDA.28745.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "276",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 218607 DE RM HOSPITALAR L",
+      "anexo": "HDT20161215NOTAFISCAL218607RMHOSPITALARLTDA.28746.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "286.15",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 216756 DE RM HOSPITALAR L",
+      "anexo": "HDT20161215NOTAFISCAL216756RMHOSPITALARLTDA.28747.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "340",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 217263 DE RM HOSPITALAR L",
+      "anexo": "HDT20161215NOTAFISCAL217263RMHOSPITALARLTDA.28748.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "460",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 217862 DE RM HOSPITALAR L",
+      "anexo": "HDT20161215NOTAFISCAL217862RMHOSPITALARLTDA.28749.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "598.1",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 216689 DE RM HOSPITALAR L",
+      "anexo": "HDT20161215NOTAFISCAL216689RMHOSPITALARLTDA.28750.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "826.04",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 218635 DE RM HOSPITALAR L",
+      "anexo": "HDT20161215NOTAFISCAL218635RMHOSPITALARLTDA.28751.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "938.52",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 217986 DE RM HOSPITALAR L",
+      "anexo": "HDT20161215NOTAFISCAL217986RMHOSPITALARLTDA.28752.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "1083.24",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 217229 DE RM HOSPITALAR L",
+      "anexo": "HDT20161215NOTAFISCAL217229RMHOSPITALARLTDA.28753.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "2347.8",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 216754 DE RM HOSPITALAR L",
+      "anexo": "HDT20161215NOTAFISCAL216754RMHOSPITALARLTDA.28754.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "2643.24",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 217352 DE RM HOSPITALAR L",
+      "anexo": "HDT20161215NOTAFISCAL217352RMHOSPITALARLTDA.28755.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "3542.63",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 218562 DE RM HOSPITALAR L",
+      "anexo": "HDT20161215NOTAFISCAL218562RMHOSPITALARLTDA.28756.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "5296.58",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 216775 DE RM HOSPITALAR L",
+      "anexo": "HDT20161215NOTAFISCAL216775RMHOSPITALARLTDA.28757.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "13650.4",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 217534 DE RM HOSPITALAR L",
+      "anexo": "HDT20161215NOTAFISCAL217534RMHOSPITALARLTDA.28758.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "22872",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 13417 DE VIA NUT NUTRIÇAO",
+      "anexo": "HDT20161215NOTAFISCAL13417VIANUTNUTRIÇAOCLINICAEPRODUTOSHOSPITALARESLTDAEPP.28759.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "220",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 12908 DE VILLIFARM MERCAN",
+      "anexo": "HDT20161215NOTAFISCAL12908VILLIFARMMERCANTILLTDA.28760.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "3196",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 12765 DE VILLIFARM MERCAN",
+      "anexo": "HDT20161215NOTAFISCAL12765VILLIFARMMERCANTILLTDA.28761.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "3750",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 12639 DE VILLIFARM MERCAN",
+      "anexo": "HDT20161215NOTAFISCAL12639VILLIFARMMERCANTILLTDA.28762.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "27536.05",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NF 12792 DE VILLIFARM MERCAN",
+      "anexo": "HDT20161215NOTAFISCAL12792VILLIFARMMERCANTILLTDA.28763.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "8060",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 029666 DE COMPUTADORES E",
+      "anexo": "HDT20161215NOTAFISCALDESERVICO029666COMPUTADORESESISTEMASLTDA.28764.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "1199.47",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 2911 DE IBES - INSTITUTO",
+      "anexo": "HDT20161215NOTAFISCALDESERVICO2911IBES-INSTITUTOBRASILEIROPARAEXCELEN.28765.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "4849.87",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 2882 DE IBES - INSTITUTO",
+      "anexo": "HDT20161215NOTAFISCALDESERVICO2882IBES-INSTITUTOBRASILEIROPARAEXCELEN.28766.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "5397.08",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 2883 DE IBES - INSTITUTO",
+      "anexo": "HDT20161215NOTAFISCALDESERVICO2883IBES-INSTITUTOBRASILEIROPARAEXCELEN.28767.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "5397.08",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 2744 DE IBES - INSTITUTO",
+      "anexo": "HDT20161215NOTAFISCALDESERVICO2744IBES-INSTITUTOBRASILEIROPARAEXCELEN.28768.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "11111.84",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 14076 DE PLANISA PLANEJA",
+      "anexo": "HDT20161215NOTAFISCALDESERVICO14076PLANISAPLANEJAMENTOEORGDEINSTITUICO.28769.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "59778.28",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 4978 DE VIDA GOIAS UTI M",
+      "anexo": "HDT20161215NOTAFISCALDESERVICO4978VIDAGOIASUTIMOVELLTDA.28770.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "10651.21",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 34859 DE COPYSYSTEMS  CO",
+      "anexo": "HDT20161215NOTAFISCALDESERVICO34859COPYSYSTEMSCOPIADORASSISTEMASESERVIÇOSLTDA.28771.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "RECEITA",
+      "valor": "610820.14",
+      "lancamento": "REPASSE SESGO",
+      "historico": "REPASSE SES/GO- HDT 11/2016",
+      "anexo": "HDT20161215REPASSE.28782.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "RECEITA",
+      "valor": "1162853.61",
+      "lancamento": "REPASSE SESGO",
+      "historico": "REPASSE SES/GO - HDT 11/2016",
+      "anexo": "HDT20161215REPASSE.28783.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "47.1",
+      "lancamento": "TARIFA DOC/TED",
+      "historico": "PAGAMENTO DE TARIFAS BANCARIAS (DOC/TED)",
+      "anexo": "HDT20161215TARIFAS.28785.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "1192024.55",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - FOLHA DE PAGAMENTO 11/2016",
+      "anexo": "HDT20161215SOLICITACAODEPPESSOAL112016.28786.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "88031.49",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - FERIAS 12/2016",
+      "anexo": "HDT20161215SOLICITACAODEPPESSOALMES 122016.28787.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "112139.17",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - FOLHA DE PAGAMENTO 11/2016 -",
+      "anexo": "HDT20161215SOLICITACAODEPPESSOAL112016.28788.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "8852.99",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - FOLHA DE PGT 11/2016 - ANTON",
+      "anexo": "HDT20161215SOLICITACAODEPPESSOAL112016.28789.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "2644.8",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - FOLHA DE PGTO 11/2016 - CAMI",
+      "anexo": "HDT20161215SOLICITACAODEPPESSOAL112016.28790.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "2274.86",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 558 DE FSB SISTEMAS DE I",
+      "anexo": "HDT20161215NOTAFISCALDESERVICO558FSBSISTEMASDEINFORMACAO.28791.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "2274.86",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 599 DE FSB SISTEMAS DE I",
+      "anexo": "HDT20161215NOTAFISCALDESERVICO599FSBSISTEMASDEINFORMACAO.28792.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "109905.18",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 19 DE LAVEBRAS GESTAO DE",
+      "anexo": "HDT20161215NOTAFISCALDESERVICO19LAVEBRASGESTAODETEXTEISSA.28794.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "17861.36",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 21238 DE META LIMPEZA E",
+      "anexo": "HDT20161215NOTAFISCALDESERVICO21238METALIMPEZAECONSERVAÇAOEIRELI.28795.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "DESPESA",
+      "valor": "278518.39",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 21236 DE META LIMPEZA E",
+      "anexo": "HDT20161215NOTAFISCALDESERVICO21236METALIMPEZAECONSERVAÇAOEIRELI.28796.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "3",
+      "tipo": "RECEITA",
+      "valor": "112139.17",
+      "lancamento": "RECEBIMENTO EMPRESTIMO P/ CS",
+      "historico": "RECEBIMENTO DE EMPRESTIMO CONCEDIDO AO CS",
+      "anexo": "HDT20161215EMPRESTIMO.28797.PDF"
+    },
+    {
+      "data": "01/12/2016",
+      "conta": "5",
+      "tipo": "DESPESA",
+      "valor": "12423.81",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - TRCT CINTIA CARLA DE OLIVEIR",
+      "anexo": "CS2016121TERMODERESCISAO009233551-97.28496.PDF"
+    },
+    {
+      "data": "05/12/2016",
+      "conta": "5",
+      "tipo": "DESPESA",
+      "valor": "310.39",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 5473 DE INDEPENDENCIA CO",
+      "anexo": "CS2016125NOTAFISCALDEPRODUTO5473INDEPENDENCIACOMERCIOEDERIVADOSDEPETROLEOLTDA.28531.PDF"
+    },
+    {
+      "data": "07/12/2016",
+      "conta": "5",
+      "tipo": "RECEITA",
+      "valor": "34481.55",
+      "lancamento": "REPASSE SESGO",
+      "historico": "REPASSE SES/GO - CS 08/2016",
+      "anexo": "CS2016127REPASSE.28594.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "5",
+      "tipo": "DESPESA",
+      "valor": "7086.98",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 60 DE N1PUBLICIDADE E PR",
+      "anexo": "CS2016129NOTAFISCALDESERVICO60N1PUBLICIDADEEPROPAGANDAEIRELI-ME.28661.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "5",
+      "tipo": "DESPESA",
+      "valor": "28000",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 7277 DE MV INFORMATICA N",
+      "anexo": "CS2016129NOTAFISCALDESERVICO7277MVINFORMATICANORDESTELTDA.28667.PDF"
+    },
+    {
+      "data": "09/12/2016",
+      "conta": "5",
+      "tipo": "DESPESA",
+      "valor": "7.85",
+      "lancamento": "TARIFA DOC/TED",
+      "historico": "PAGAMENTO DE TARIFAS BANCARIAS (DOC/TED)",
+      "anexo": "CS2016129TARIFAS.28668.PDF"
+    },
+    {
+      "data": "12/12/2016",
+      "conta": "5",
+      "tipo": "DESPESA",
+      "valor": "72.1",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 2588 DE PONCIANO CENTRO",
+      "anexo": "CS20161212NOTAFISCALDESERVICO2588PONCIANOCENTROAUTOMOTIVOLTDA.28674.PDF"
+    },
+    {
+      "data": "12/12/2016",
+      "conta": "5",
+      "tipo": "DESPESA",
+      "valor": "58",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - NFS 2241 DE PONCIANO CENTRO",
+      "anexo": "CS20161212NOTAFISCALDEPRODUTO2241PONCIANOCENTROAUTOMOTIVOLTDA.28675.PDF"
+    },
+    {
+      "data": "12/12/2016",
+      "conta": "5",
+      "tipo": "DESPESA",
+      "valor": "15.7",
+      "lancamento": "TARIFA DOC/TED",
+      "historico": "PAGAMENTO DE TARIFAS BANCARIAS (DOC/TED)",
+      "anexo": "CS20161212TARIFAS.28684.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "5",
+      "tipo": "DESPESA",
+      "valor": "3637.95",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - FÉRIAS 12/2016 - LUCIANA GUE",
+      "anexo": "CS20161215SOLICITACAODEPPESSOAL70829004149.28773.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "5",
+      "tipo": "DESPESA",
+      "valor": "6070.91",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - FERIAS 12/2016 MARIA AMÉLIA",
+      "anexo": "CS20161215SOLICITACAODEPPESSOAL612142211-49.28774.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "5",
+      "tipo": "DESPESA",
+      "valor": "834.91",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - RPA 11/2016 FABIO ANDRADE",
+      "anexo": "CS20161215SOLICITACAODEPPESSOAL82190879191.28776.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "5",
+      "tipo": "DESPESA",
+      "valor": "1966.15",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - FÉRIAS 12/2016 - ARLENE PREI",
+      "anexo": "CS20161215SOLICITACAODEPPESSOAL77765982168.28777.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "5",
+      "tipo": "DESPESA",
+      "valor": "2349.02",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - FÉRIAS 12/2016 - AGUIANE ROS",
+      "anexo": "CS20161215SOLICITACAODEPPESSOAL72833327153.28778.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "5",
+      "tipo": "RECEITA",
+      "valor": "200543.55",
+      "lancamento": "REPASSE SESGO",
+      "historico": "REPASSE  SES/GO CS 08/2016",
+      "anexo": "CS20161215REPASSE.28784.PDF"
+    },
+    {
+      "data": "15/12/2016",
+      "conta": "5",
+      "tipo": "DESPESA",
+      "valor": "112139.17",
+      "lancamento": "PAGTO DEBITO C/C",
+      "historico": "PAGTO DEBITO EM C/C - FOLHA DE PGT 11/2016 (REEMBO",
+      "anexo": "CS20161215SOLICITACAODIRETORIA112016.28798.PDF"
     }
   ]
 }
