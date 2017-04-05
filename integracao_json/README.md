@@ -1,13 +1,18 @@
-# Integração JSON
+# IntegraÃ§Ã£o JSON
 
-Material de apoio para a documentação do processo de integração com o sistema WTaborda via envio de documentos online no formato [JSON](https://pt.wikipedia.org/wiki/JSON).
+Material de apoio para a documentaÃ§Ã£o do processo de integraÃ§Ã£o com o sistema WTaborda via envio de documentos online no formato [JSON](https://pt.wikipedia.org/wiki/JSON).
 
 ## Diagrama de sequencia
 
 ![Diagrama de sequencia](./conteudo/v0/uml/diagrama_sequencia.png)
 
-## Geração dos arquivos JSON
+## Estrutura dos arquivos JSON
 
-Modelo inicial de arquivo JSON (Transação 4)
+Nesta sessÃ£o descrevemos o modelo de estrutua dos arquivos.
 
-![Manual modelo](./conteudo/v0/wtaborda_transasao_4_manual.png)
+### TransaÃ§Ã£o 4
+
+![Manual modelo](./conteudo/v0/wtaborda_transasao_4_manual.png)  
+
+[Download wtaborda_transasao_4.json](./conteudo/v0/wtaborda_transasao_4.json)  
+[Download wtaborda_transasao_4_exemplo.pdf](./conteudo/v0/wtaborda_transasao_4_exemplo.pdf)  
