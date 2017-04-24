@@ -16,3 +16,14 @@ Nesta sessão descrevemos o modelo de estrutua dos arquivos.
 * PDF: [wtaborda_transasao_4_exemplo.pdf](./conteudo/v0/wtaborda_transasao_4_exemplo.pdf)  
 
 ![Manual modelo](./conteudo/v0/wtaborda_transasao_4_manual.png)  
+
+
+### REST Rotas
+
+Método | Rota | Descrição
+-----|-----|-----
+**POST** | /lancamento | Envio do lote de transação.
+**GET** | /lotes | Consulta relação os lotes 
+**GET** | /lote/{id} | Consulta o detalhamento do lote (recupera o status do processamento do lote bem como o histórico de erros identificados)
+**DELETE** | /lote/{id} | Solicita o estorno do lote
+
