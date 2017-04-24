@@ -24,6 +24,6 @@ Método | Rota | Descrição
 -----|-----|-----
 **POST** | /lancamento | Envio do lote de transação.
 **GET** | /lotes | Consulta relação os lotes 
-**GET** | /lote/{id} | Consulta o detalhamento do lote (recupera o status do processamento do lote bem como o histórico de erros identificados)
-**DELETE** | /lote/{id} | Solicita o estorno do lote
+**GET** | /lote/*{id}* | Consulta o detalhamento do lote *(recupera o status do processamento do lote bem como o histórico de erros identificados)*
+**DELETE** | /lote/*{id}* | Solicita o estorno do lote
 
